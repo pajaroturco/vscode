@@ -12,3 +12,10 @@ let apellido = "Garcia";
 apellido.replace("a", "e");
 
 apellido.trim();
+
+console.log(apellido);
+
+/* 
+*este programa hace tal cosa 
+! esta funcion no se debe usar
+*/

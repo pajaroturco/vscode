@@ -18,6 +18,14 @@
 - +W cerrar pestaña
 - +shift+T abrir la ultima pestaña que se cerro
 - +shift+flecha multicursores
+- +D seleccionar etiquetas iguales
+- +shift+L multicoursor en todas las ocurrencias
+- +P buscar archivos dentro del arbol (agregando @ para buscar definiciones dentro del archivo)
+- +shift+P ejecutar comando >
+- +shift+O abre buscador con @ para buscar las definiciones (esquema)
+- +G para ir a una linea ":" en el buscador
+- +K+S para abrir los atajos del teclado
+- +I para agrupar etiquetas html dentro de un div
 
 
 #### emmet
@@ -34,9 +42,17 @@
 
 - +flecha sobre la linea para mover la linea
 - +clic multicursores
+- +shift+flecha derecha para seleccionar la primer palabra del contenido
+- +B abrir en chrome
 
 #### func
 
 - F12 ir a la definicion
 - F12+shift las referencias
 - F2 cambiar el nombre de la referencia en todas las ocurrencias
+
+#### generales
+
+- pasar a mayus y minus (crear atajos de teclado)
+- template string en js `` e interpolar las variables con $()
+- snipplets fragmento de codigo de usuario
