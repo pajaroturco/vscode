@@ -12,6 +12,12 @@
 - +shift+F buscar en archivos
 - +F buscar en archivo actual
 - +shift+K borrar linea o seleccion
+- +H buscar y reemplazar
+- +shift+C abrir terminal externa
+- tab o flecha navegar entre pestaña de vscode
+- +W cerrar pestaña
+- +shift+T abrir la ultima pestaña que se cerro
+- +shift+flecha multicursores
 
 
 #### emmet
@@ -27,8 +33,10 @@
 #### alt
 
 - +flecha sobre la linea para mover la linea
+- +clic multicursores
 
 #### func
 
 - F12 ir a la definicion
 - F12+shift las referencias
+- F2 cambiar el nombre de la referencia en todas las ocurrencias
